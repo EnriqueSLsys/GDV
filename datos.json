@@ -1,0 +1,29 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "año": 2019,
+        "color": "Azul",
+        "tipo_combustible": "Gasolina",
+        "cilindraje": 2000,
+        "matricula": "ABC123"
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "año": 2018,
+        "color": "Rojo",
+        "tipo_combustible": "Gasolina",
+        "cilindraje": 1800,
+        "matricula": "DEF456"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Focus",
+        "año": 2020,
+        "color": "Blanco",
+        "tipo_combustible": "Gasolina",
+        "cilindraje": 1600,
+        "matricula": "GHI789"
+    }
+]

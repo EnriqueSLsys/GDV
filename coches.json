@@ -1,0 +1,22 @@
+{
+  "personal": [
+    {
+      "nombre": "Juan22",
+      "apellido": "Pérez",
+      "edad": 30,
+      "vehiculo": "Toyota Corolla"
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "edad": 25,
+      "vehiculo": "Honda Civic"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "edad": 35,
+      "vehiculo": "Ford Focus"
+    }
+  ]
+}
